@@ -1,0 +1,1 @@
+nm -gDC $1 | grep WarpPerspective
